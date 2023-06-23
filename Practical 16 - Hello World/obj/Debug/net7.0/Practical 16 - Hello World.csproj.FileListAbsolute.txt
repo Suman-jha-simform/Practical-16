@@ -1,0 +1,66 @@
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\appsettings.json
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.exe
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.deps.json
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.runtimeconfig.json
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.pdb
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.csproj.AssemblyReference.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.AssemblyInfoInputs.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.AssemblyInfo.cs
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets\msbuild.Practical 16 - Hello World.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets\msbuild.build.Practical 16 - Hello World.props
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Practical 16 - Hello World.props
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Practical 16 - Hello World.props
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\scopedcss\bundle\Practical 16 - Hello World.styles.css
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.csproj.CopyComplete
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\refint\Practical 16 - Hello World.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.pdb
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.genruntimeconfig.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\ref\Practical 16 - Hello World.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\appsettings.json
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.exe
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.deps.json
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.runtimeconfig.json
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Practical 16 - Hello World.pdb
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.csproj.AssemblyReference.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.AssemblyInfoInputs.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.AssemblyInfo.cs
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets\msbuild.Practical 16 - Hello World.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets\msbuild.build.Practical 16 - Hello World.props
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Practical 16 - Hello World.props
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Practical 16 - Hello World.props
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\scopedcss\bundle\Practical 16 - Hello World.styles.css
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.csproj.CopyComplete
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\refint\Practical 16 - Hello World.dll
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.pdb
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\Practical 16 - Hello World.genruntimeconfig.cache
+C:\Users\install\Desktop\ASP.NET CORE\Practicals\Practical 16 - Hello World\Practical 16 - Hello World\obj\Debug\net7.0\ref\Practical 16 - Hello World.dll

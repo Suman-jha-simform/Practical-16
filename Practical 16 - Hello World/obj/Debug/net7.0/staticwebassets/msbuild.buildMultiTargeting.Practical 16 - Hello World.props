@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practical 16 - Hello World.props" />
+</Project>

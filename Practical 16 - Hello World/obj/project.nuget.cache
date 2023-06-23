@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNpx3V/KnjnxZjcjSFWWz8hVhBRJrWOPzMRKK3HuT3+R2KkM0UK16OkiBiE+9MR7fZkXNF68LKRO8N9++9BJsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\install\\Desktop\\ASP.NET CORE\\Practicals\\Practical 16 - Hello World\\Practical 16 - Hello World\\Practical 16 - Hello World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\install\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\install\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\install\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\install\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\install\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\install\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\install\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
